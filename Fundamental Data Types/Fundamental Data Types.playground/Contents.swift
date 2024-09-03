@@ -40,3 +40,13 @@ dodik = 30
 //dodikCopy не поменялся потому что выше (var dodik=28 передало это значение в константу "Которая не меняется" те дальше с переменной можно делать все но константа не поменяется)
 print(dodikCopy)
 print(dodik)
+
+
+var misterBin = 50
+
+let misterBin2: Int = misterBin
+
+misterBin = 60
+
+print(misterBin)
+print(misterBin2)
