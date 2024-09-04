@@ -50,3 +50,13 @@ misterBin = 60
 
 print(misterBin)
 print(misterBin2)
+
+
+var MrBin = 100
+
+let drMafoy: Int = MrBin
+
+MrBin = 200
+
+print(MrBin)
+print(drMafoy)
