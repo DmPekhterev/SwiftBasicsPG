@@ -60,3 +60,13 @@ MrBin = 200
 
 print(MrBin)
 print(drMafoy)
+
+//test
+var Hero = 25
+
+let HeroCoppy: Int = Hero
+
+Hero = 36
+
+print(Hero)
+print(HeroCoppy)
