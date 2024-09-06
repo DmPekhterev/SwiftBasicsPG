@@ -70,3 +70,13 @@ Hero = 36
 
 print(Hero)
 print(HeroCoppy)
+
+
+var Motor = 100
+
+let MotorCopy: Int = Motor
+
+Motor = 50
+
+print(Motor)
+print(MotorCopy)
