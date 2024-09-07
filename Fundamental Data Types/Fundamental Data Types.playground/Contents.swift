@@ -80,3 +80,6 @@ Motor = 50
 
 print(Motor)
 print(MotorCopy)
+
+
+//test task
