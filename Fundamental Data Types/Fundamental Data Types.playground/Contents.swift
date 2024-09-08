@@ -83,3 +83,10 @@ print(MotorCopy)
 
 
 //test task
+
+var pina = 17
+let pinaCopy: Int = pina
+
+pina = 23
+print(pina)
+print(pinaCopy)
