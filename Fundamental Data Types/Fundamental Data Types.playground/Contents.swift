@@ -90,3 +90,5 @@ let pinaCopy: Int = pina
 pina = 23
 print(pina)
 print(pinaCopy)
+
+//test task #2
