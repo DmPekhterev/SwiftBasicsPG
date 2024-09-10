@@ -92,3 +92,9 @@ print(pina)
 print(pinaCopy)
 
 //test task #2
+var dorian = 21
+let dorianCopy: Int = dorian
+dorian = 20
+print(dorian)
+print(dorianCopy)
+
