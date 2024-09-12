@@ -99,3 +99,8 @@ print(dorian)
 print(dorianCopy)
 
 //Test
+var Moscow = 100
+let MoscowCopy: Int = Moscow
+Moscow = 200
+print(Moscow)
+print(MoscowCopy)
