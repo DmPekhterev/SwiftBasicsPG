@@ -104,3 +104,5 @@ let MoscowCopy: Int = Moscow
 Moscow = 200
 print(Moscow)
 print(MoscowCopy)
+
+var Test = 1010
