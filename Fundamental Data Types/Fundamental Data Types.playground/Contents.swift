@@ -106,3 +106,7 @@ print(Moscow)
 print(MoscowCopy)
 
 var Test = 1010
+let Testcopy: Int = Test
+Test = 1020
+print(Test)
+print(Testcopy)
