@@ -111,3 +111,8 @@ Test = 1020
 print(Test)
 print(Testcopy)
 //test
+var giga = 500
+let gigaCopy: Int = giga
+giga = 600
+print(giga)
+print(gigaCopy)
