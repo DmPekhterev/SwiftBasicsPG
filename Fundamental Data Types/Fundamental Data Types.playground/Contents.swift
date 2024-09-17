@@ -81,7 +81,7 @@ Motor = 50
 print(Motor)
 print(MotorCopy)
 
-
+//test book
 //test task
 
 var pina = 17
@@ -116,3 +116,5 @@ let gigaCopy: Int = giga
 giga = 600
 print(giga)
 print(gigaCopy)
+
+//test_book
