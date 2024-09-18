@@ -118,3 +118,8 @@ print(giga)
 print(gigaCopy)
 
 //test_book
+var libra = 20
+let libraCopy: Int = libra
+libra = 30
+print(libra)
+print(libraCopy)
