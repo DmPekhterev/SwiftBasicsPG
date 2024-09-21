@@ -125,3 +125,8 @@ print(libra)
 print(libraCopy)
 //Test code
 //Test_TWO
+var Gidra = 2023
+let GidraCopy: Int = Gidra
+Gidra = 2024
+print(Gidra)
+print(GidraCopy)
