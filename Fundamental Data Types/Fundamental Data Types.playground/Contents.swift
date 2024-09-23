@@ -131,3 +131,8 @@ Gidra = 2024
 print(Gidra)
 print(GidraCopy)
 //Test_three
+var Mavrodi = 1999
+let MavrodyCopy: Int = Mavrodi
+Mavrodi = 2000
+print(Mavrodi)
+print(MavrodyCopy)
