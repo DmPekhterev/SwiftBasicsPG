@@ -139,3 +139,8 @@ print(MavrodyCopy)
 //this is test
 //Test_four
 //Test_five
+var Potter = 10
+let PotterCopy: Int = Potter
+Potter = 20
+print(Potter)
+print(PotterCopy)
