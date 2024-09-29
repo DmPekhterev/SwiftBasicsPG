@@ -312,3 +312,4 @@ let longString1 = """
 let nonEmptyString = String ("helloTroll")
 let someDoubleNumber = 74.22
 let someStringNumber = String(someDoubleNumber)
+//test
