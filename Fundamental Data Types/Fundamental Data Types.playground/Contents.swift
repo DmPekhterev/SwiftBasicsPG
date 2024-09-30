@@ -313,3 +313,6 @@ let nonEmptyString = String ("helloTroll")
 let someDoubleNumber = 74.22
 let someStringNumber = String(someDoubleNumber)
 //test
+let dilda = String ("HelloDlda")
+let someDilda = 53.17
+let someDildaString = String(someDilda)
