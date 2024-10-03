@@ -318,3 +318,33 @@ let someDilda = 53.17
 let someDildaString = String(someDilda)
 //test_Code
 //newTest
+
+//Объединение строк
+//Переменная типа string
+let name = "Дракон"
+//Константа типа String с использование интерполяции
+let hello = "Привет меня зовут \(name)!"
+//Интерполяция с использованием выражения
+let maters: Double = 10
+let text = "Моя длинна \(maters * 3.28) фута"
+
+print(hello)
+print(text)
+
+//Константа типа String
+let firstText = "Мой вес"
+//Переменная типа Double
+let weight = 12.4
+//константа типа String
+let secondText = "Тонны"
+//Конкатенация сток при иницализации значения новой переменной
+let resultText = firstText + String(weight) + (secondText)
+print(resultText)
+
+
+let firstString = "Swift"
+let secondString = "Objective-C"
+let anotherString = "Swift"
+firstString == secondString // false
+firstString == anotherString // true
+
