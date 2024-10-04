@@ -348,3 +348,14 @@ let anotherString = "Swift"
 firstString == secondString // false
 firstString == anotherString // true
 
+
+func обратныйМассив (n: Int) -> [Int] {
+    guard n > 0 else { return [] }
+    return (1...n).reversed()
+}
+
+let результат = обратныйМассив(n: 5)
+print(результат)
+
+//тип данных хранящий данные без дробной части
+let nondrob: UInt = 50
