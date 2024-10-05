@@ -33,3 +33,8 @@ var rast = Double(100) //раст в км
 var sec = Int(600) //время в секундах
 //вычесление скорости в метра в минуту
 var scmetmin = (rast * 1000) / (Double(sec) / 60)
+
+
+var a = 111
+var b = 222
+var c = Int("\(a)\(b)")
