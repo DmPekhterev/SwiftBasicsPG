@@ -38,3 +38,4 @@ var scmetmin = (rast * 1000) / (Double(sec) / 60)
 var a = 111
 var b = 222
 var c = Int("\(a)\(b)")
+//testcode
