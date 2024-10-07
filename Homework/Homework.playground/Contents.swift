@@ -39,3 +39,5 @@ var a = 111
 var b = 222
 var c = Int("\(a)\(b)")
 //testcode
+//NewTest
+
