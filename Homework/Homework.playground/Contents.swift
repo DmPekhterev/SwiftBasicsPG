@@ -44,4 +44,4 @@ var ras = Double(200)
 var se = Int(1000)
 var metrMin = (ras * 1000) / (Double(se) / 60)
 //newTest1
-
+//NewTest
