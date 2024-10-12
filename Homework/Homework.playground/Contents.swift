@@ -48,3 +48,5 @@ var metrMin = (ras * 1000) / (Double(se) / 60)
 var dl = Double(400)
 var timeSec = Int(2000)
 var metrDL = (dl * 100) / (Double(timeSec) / 60)
+//newTest
+
