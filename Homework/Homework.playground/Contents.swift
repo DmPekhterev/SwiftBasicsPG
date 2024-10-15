@@ -50,3 +50,4 @@ var timeSec = Int(2000)
 var metrDL = (dl * 100) / (Double(timeSec) / 60)
 //newTest
 //TestWork
+//newCommit
