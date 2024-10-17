@@ -52,3 +52,7 @@ var metrDL = (dl * 100) / (Double(timeSec) / 60)
 //TestWork
 //newCommit
 //NewWork
+var dlin = Double(800)
+var Tsec = Int (1200)
+var Mdl = (dlin * 100) / (Double(Tsec) / 60)
+
