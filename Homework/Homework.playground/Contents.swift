@@ -60,3 +60,4 @@ var Mdl = (dlin * 100) / (Double(Tsec) / 60)
 //NewWork
 //newwork
 //NewWork
+//ss
