@@ -70,4 +70,4 @@ var Mdl = (dlin * 100) / (Double(Tsec) / 60)
 var dn = Double(900)
 var ts = Int (1500)
 var md = (dn * 100) / (Double(ts) / 60)
-
+//NewWork
