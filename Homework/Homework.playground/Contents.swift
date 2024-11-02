@@ -72,3 +72,4 @@ var ts = Int (1500)
 var md = (dn * 100) / (Double(ts) / 60)
 //NewWork
 //NewCode
+//NewCode
